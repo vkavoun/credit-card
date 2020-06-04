@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreditCardInput renders correctly 1`] = `
+<div>
+  <label>
+    Credit Card Number*
+  </label>
+  <input
+    autoFocus={true}
+    data-testid="card-number"
+    id="card-keyboard-manual-entry__keyed-entry-input"
+    name="card-keyboard-manual-entry__keyed-entry-input"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    type="tel"
+    value=""
+  />
+</div>
+`;

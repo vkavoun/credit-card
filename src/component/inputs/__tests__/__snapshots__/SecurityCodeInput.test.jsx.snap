@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SecurityCodeInput renders correctly 1`] = `
+<div>
+  <label>
+    CVV (back of card)*
+  </label>
+  <input
+    data-testid="security-code"
+    id="card-security-code-manual-entry__keyed-entry-input"
+    maxLength={3}
+    name="card-security-code-manual-entry__keyed-entry-input"
+    onChange={[Function]}
+    type="tel"
+    value=""
+  />
+</div>
+`;
